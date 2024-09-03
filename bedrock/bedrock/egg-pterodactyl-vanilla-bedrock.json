@@ -54,7 +54,7 @@
             "name": "Server Name",
             "description": "The name for the server",
             "env_variable": "SERVERNAME",
-            "default_value": "Bedrock Dedicated Server",
+            "default_value": "Hosted by Cloudy Servers",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string|max:50",
